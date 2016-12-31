@@ -60,6 +60,7 @@
     <Compile Include="RequestCompletedEventArgs.cs" />
     <Compile Include="RequestStartingEventArgs.cs" />
     <Compile Include="Result.cs" />
+    <Compile Include="Rollbar.cs" />
     <Compile Include="RollbarClient.cs" />
     <Compile Include="RollbarHttpModule.cs" />
     <Compile Include="Serialization\BodyModel.cs" />
